@@ -15,7 +15,6 @@ const Users_File = path.join(__dirname,'users.json');
 
 const ReadUsers = () => {
     const data = fs.readFileSync(Users_File, 'utf-8');
-    console.log("Users:",data);
     return JSON.parse(data);
 };
 
@@ -24,13 +23,15 @@ const WriteUser = (users) => {
 };
 
 app.post('/Register', (req, res) => {
-    const { username, password} = req.body;
-    const users = ReadUsers();
+    const { name, email } = req.body;
+    const users = ReadUsers(); 
+    console.log(users);
 
-    if(users.find(user => user.username === username)){
-        return res.status(400).send('Den brugernavn eksister allerede');
+    if(users.find(user => user.name === name)){
+     return res.status(400).send('Den brugernavn eksister allerede');
     }
-    users.push({username, password});
+    users.push({name, email});
+   
 
     WriteUser(users);
 
