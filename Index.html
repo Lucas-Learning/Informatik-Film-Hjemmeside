@@ -10,117 +10,53 @@
 <body>
     <div class="header">
         <div class="leftContainer">
-            <img src="../Assets/burgerlogo.png" alt="Bruger logo" class="burgerlogo">
         </div>
         <div class="middleContainer">
-            <input type="text" placeholder="Søg efter en anmeldelse">
-        </div>
-        <div class="rightContainer">
             <ul>
-                <li> <a href="Index.html">Hjem</a></li>
+                <li> <a href="Index.html">Action</a></li>
                 <li>|</li>
-                <li><a href="BurgerResturants.html">Restauranter</a></li>
+                <li><a href="BurgerResturants.html">Anime</a></li>
                 <li>|</li>
-                <li><a href="About.html">Om os
-                </a></li>
+                <li><a href="About.html">Gyser</a></li>
                 <li>|</li>
-                <li><a href="Register.html">SignUp</a></li>
+                <li><a href="Register.html">FAQ og kontakt</a></li>
             </ul>
         </div>
-    </div>
-    <div class="reviewsContainer" id="myBtn">
-        <img src="/Assets/user-icon-on-transparent-background-free-png.webp" alt="Bruger logo" class="brugerlogo">
-        <div>
-            <p>Upload et billede af din burger, og skriv en anmeldelse af den!</p>
+        <div class="rightContainer">
         </div>
     </div>
-    <div>
-        <h2 class="anmeldelsertext">Anmeldelser</h2>
-    </div>
-    <div class="anmeldelser">
-        <div class="anmeldelse">
-            <div class="aheader">
-                <div class="aleft">
-                    <img src="/Assets/user-icon-on-transparent-background-free-png.webp" alt="brugerlogo">
-                    <p>Asbjørn</p>
-                </div>
-                <div class="aright">
-                    <div>
-                        <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                    </div>
-                    <p>7. aug. 2024</p>
-                </div>
-            </div>
-            <hr>
-            <div class="acontent">
-                <div>
-                    <h2>God burger</h2>
-                    <p>Denne burger var fantastisk</p>
-                </div>
-                <div>
-                    <img src="Assets/burgerlogo.png" alt="burgerbillede">
-                </div>    
-            </div>
-        </div>
-        <div class="anmeldelse">
-            <div class="aheader">
-                <div class="aleft">
-                    <img src="/Assets/user-icon-on-transparent-background-free-png.webp" alt="brugerlogo">
-                    <p>Asbjørn</p>
-                </div>
-                <div class="aright">
-                    <div>
-                        <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                    </div>
-                    <p>7. aug. 2024</p>
-                </div>
-            </div>
-            <hr>
-            <div class="acontent">
-                <div>
-                    <h2>God burger</h2>
-                    <p>Denne burger var fantastisk</p>
-                </div>
-                <div>
-                    <img src="Assets/burgerlogo.png" alt="burgerbillede">
-                </div>    
-            </div>
-        </div>
+    <div class="moviesContainer" id="myBtn">
+        <div class="leftContainer">
+            <a class="movietext">Det her er en film meetup som vi håber i vil med til. </a>
 
-    <!-- Modal content -->
-    <div id="myModal" class="modal">
-        <div class="modal-content">
-          <span class="close">&times;</span>
-          <h3 class="rateText">Bedøm din burger</h3>
-          <div class="starRating">
-            <span onmouseover="highlightStars(1)" onmouseout="resetStars()" onclick="gfg(1)" class="fa fa-star stjerne"></span>
-            <span onmouseover="highlightStars(2)" onmouseout="resetStars()" onclick="gfg(2)" class="fa fa-star stjerne"></span>
-            <span onmouseover="highlightStars(3)" onmouseout="resetStars()" onclick="gfg(3)" class="fa fa-star stjerne"></span>
-            <span onmouseover="highlightStars(4)" onmouseout="resetStars()" onclick="gfg(4)" class="fa fa-star stjerne"></span>
-            <span onmouseover="highlightStars(5)" onmouseout="resetStars()" onclick="gfg(5)" class="fa fa-star stjerne"></span> 
-          </div>
-
-          <h3>Titel på din anmeldelse</h3>
-          <input type="text" class="titelInput" placeholder="Skriv en titel">
-          <h3>Fortæl os om din burger</h3>
-          <textarea name="" class="textArea" placeholder="Fortæl os om burgeren"></textarea>
-          <h3>Upload et billede</h3>
-          <input type="file">
-          <div class="sendButton">
-            <input type="submit">
-          </div>
-          
+        
+        <div class="rightContainer" style="text-align: right;"></div>
+            <img height="400" src="/uploads/Luksus-Nordisk-Film-Biografer.jpg" alt="" id="movieImage">
         </div>
-      
-      </div>
-      <script src="modal.js"></script>
+        </div>
+    </div>
+
+    <div class="moviesContainer" id="myBtn">
+        <div class="leftContainer">
+            <img height="400" src="/uploads/Movies.jpg" alt="" id="movieImage">
+            
+            <div class="rightContainer" style="text-align: right;"></div>
+            <a class="movietext">Tilmeld nu og få gratis drink med tilmeldning. </a>
+        </div>
+        </div>
+    </div>
+
+
+    <div class="moviesContainer" id="myBtn">
+        <div class="leftContainer">
+            <img width="450" height="250" src="/uploads/gyser.png" alt="" id="movieImage">
+            <img width="450" height="250" src="/uploads/anime.png" alt="" id="movieImage">
+            <img width="450" height="250" src="/uploads/image.png" alt="" id="movieImage">
+            
+            <div class="rightContainer" style="text-align: right;"></div>
+        </div>
+        </div>
+    </div>
+        
 </body>
 </html>
