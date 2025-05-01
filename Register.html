@@ -13,11 +13,11 @@
             <h1>Registration</h1>
             <form id="registerForm">
                 <div class="input-box">
-                    <input type="text" placeholder="Brugernavn" id="username" name="username" required>
+                    <input type="text" placeholder="name" id="name" name="name" required>
                     <i class='bx bx-user' ></i>
                 </div>
                 <div class="input-box">
-                    <input type="password" placeholder="Kodeord" id="password" name="password" required>
+                    <input type="email" placeholder="Email" id="email" name="email" required>
                     <i class='bx bx-lock-alt' ></i>
                 </div>
                 <button type="submit" class="btn">Registrer</button>
@@ -29,22 +29,23 @@
     <script>
         document.getElementById('registerForm').addEventListener('submit', async function (e){
             e.preventDefault();
-            const username = document.getElementById('username').value;
-            const password = document.getElementById('password').value;
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            console.log(name,email)
 
             const response = await fetch('/Register', {
                 method: 'POST',
                 headers: {
                     'Content-Type' :'application/json',
                 },
-                body: JSON.stringify({ username, password })
+                body: JSON.stringify({ name, email })
             });
             if(response.ok){
                 alert('Succes');
-                window.location.href = "http://localhost:3000/Login.html";
+                window.location.href = "http://localhost:3000/Index.html";
             }
             else{
-                console.log(username,password)
+                console.log(name,email)
                 alert('Brugeren eksister allerede')
             }
         });
