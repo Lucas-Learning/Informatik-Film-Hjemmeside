@@ -1,0 +1,1068 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AdCG2DMVkpbEM-dqg85XGsOGnD7nZdwZWrgT0VndM9_kS2IygZ7vHklNdbAa_V1otoID1J1XotmhapQn0gYR8wu9YbXjtUG3SzaHD4SUX3B81-39Lq9P3HtcfrAEQKDnMksgzbpTZHAJ2TnFxYQ5ywqhL-Js6Vjy0vRgBqcm2hG5dzbUXwvIlz2zxVcQoHAfBhmdjUzTIG2zWcbccqeTQwWApQ8Zr58Q-HckgDlydQTBAePmj0NKuK0gYTbQhAQk3IQp_-teDeFaQmWbUkf8JQ9HONFG4vO-BnWIn_0HhvBMYnjY0hyGIIshB1R-YIETOHZZF5a5j5eUGEbIJnKols8rYKN45ygKDSMv1TSZI6VmYD8DlR8Vkf9bxY8KmhOQzl0igxrGH7C9k2VLMRA6t8rtphe2buxAp9HAjdFKwmdVDxFkiOf8ETGsmCX17utV4k2ruTbiZe8",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6780895,
+          "lng": 12.568346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.67947237989272,
+            "lng": 12.56967527989272
+          },
+          "southwest": {
+            "lat": 55.67677272010727,
+            "lng": 12.56697562010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Kristinedal Burgers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2823,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115427973979436382282\">Bachir Chaiban</a>"
+          ],
+          "photo_reference": "AdCG2DMENNYL9zovTNPrrw4y1ZcFmAv7JlwFV1Ht4MpGJxn3ay00cCv3Alj5vf5byXzS0ESybsp-15mHEVIrXBIYlRSTuPyrHCPKfoNJBX9FzHuOCqGuVAF7kq4gfZRnJ-y2EMt2c5K4tZ1g6S6CsiqcXcYmysQxvrFjnR0sr6OoNi8wNJIX",
+          "width": 3489
+        }
+      ],
+      "place_id": "ChIJq7rMLqhUUkYRQgfocUXEUG0",
+      "plus_code": {
+        "compound_code": "MHH9+68 Copenhagen",
+        "global_code": "9F7JMHH9+68"
+      },
+      "price_level": 2,
+      "rating": 4.8,
+      "reference": "ChIJq7rMLqhUUkYRQgfocUXEUG0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1684,
+      "vicinity": "Studiestræde 37, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6794686,
+          "lng": 12.5756666
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68111772989273,
+            "lng": 12.5772481
+          },
+          "southwest": {
+            "lat": 55.67841807010728,
+            "lng": 12.5742777
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sporvejen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104506214905049207317\">Guillermo &quot;El yanki&quot;</a>"
+          ],
+          "photo_reference": "AdCG2DOOc1xrVIIYiEm0YDBaQUu1Ypgi_RhliBrrlt8mPhHr-SAJzo6GSbM_OympOhqMuiSm5x1oO-2qqGikBU01zg8ewyaeFBzpuTjbw3EtS1mGdPUXLcWz7IKKHAqyCLXjWBCR1i5cg9hwqmGJs9ShM1x0b0HkpUjZrv1XrH3EcG7V4BgP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJXe7R8BBTUkYR9LDLlqUGyfI",
+      "plus_code": {
+        "compound_code": "MHHG+Q7 Copenhagen",
+        "global_code": "9F7JMHHG+Q7"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJXe7R8BBTUkYR9LDLlqUGyfI",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3968,
+      "vicinity": "Gråbrødretorv 17, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6822856,
+          "lng": 12.5825009
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68360007989271,
+            "lng": 12.58382017989272
+          },
+          "southwest": {
+            "lat": 55.68090042010726,
+            "lng": 12.58112052010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "It's Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108972420125944106924\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DPXrc3uS0hW66WYmt2bnFVP2xKApBuBAupfwp8-9EThArLFkzfmnvQVy4OUG8ZfYDNPAIT2yU4RhAPHlN4cvmem-raMjGI03dkbsj5SJXfRlRyE5tBK-ght9kcvSnSSUBP6pqgrYlr8KTj9AveaG_hTCapE6LkrhYPYJSY53VjaFDxJ",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJB0yyYxxTUkYRKjbWYP1K57M",
+      "plus_code": {
+        "compound_code": "MHJM+W2 Copenhagen",
+        "global_code": "9F7JMHJM+W2"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJB0yyYxxTUkYRKjbWYP1K57M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 651,
+      "vicinity": "Gothersgade 40, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6682667,
+          "lng": 12.5580631
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.66970717989273,
+            "lng": 12.55999842989272
+          },
+          "southwest": {
+            "lat": 55.66700752010728,
+            "lng": 12.55729877010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tommi's Burger Joint",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117328993061616609179\">Vemund</a>"
+          ],
+          "photo_reference": "AdCG2DPuyJvyQzyAxxso6S5Kbb9ZRDzSpjl9eZY5bsIv547r6GPmMT3UPM3r3heZULlkJ38HgEGR3zXz_MrSHapbKzpd0yolJJsUH2_SP3IDivsTtNKZ0JRbAfn0YqJMq6iX4a4TtFOuExcegSPg4V8PYCO8Qp5uPyXwwdVN9FeDXDEmYDBg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt-0-sxFTUkYROY7lY_6s47k",
+      "plus_code": {
+        "compound_code": "MH95+86 Copenhagen",
+        "global_code": "9F7JMH95+86"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJt-0-sxFTUkYROY7lY_6s47k",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2558,
+      "vicinity": "Høkerboderne 21, 23, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6832682,
+          "lng": 12.585052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68457082989272,
+            "lng": 12.58636332989272
+          },
+          "southwest": {
+            "lat": 55.68187117010728,
+            "lng": 12.58366367010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Gasoline Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103361533299814242209\">Roy Colbers</a>"
+          ],
+          "photo_reference": "AdCG2DMj9flud2PIWZBn6c5-5EPYfIVIIMWLcmu7Ol3KmmVKAl7vxVftqOOPXLguPl1AIm1effEjTDaXFfRVSq8G0zk95UEATxOPBcP3N0DCmOGYM-xsPF1KwbwXzFvkGqe-hluygtNU_axlPW7wFSkw85A_5ZFNjhkNGhPY7MmN81Yseu7M",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJ4WbuqRlTUkYRihSiP2oLhbY",
+      "plus_code": {
+        "compound_code": "MHMP+82 Copenhagen",
+        "global_code": "9F7JMHMP+82"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ4WbuqRlTUkYRihSiP2oLhbY",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4956,
+      "vicinity": "Landgreven 10, København K"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.678176,
+          "lng": 12.56957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.67952167989272,
+            "lng": 12.57096977989272
+          },
+          "southwest": {
+            "lat": 55.67682202010727,
+            "lng": 12.56827012010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Halifax",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109668292593000638975\">Chuck Hodge</a>"
+          ],
+          "photo_reference": "AdCG2DPnmNds7E0AExR-_Njq8xwPCBBP-aMRA997gqrH4TxtVvdP83mXBaSdQNrVzndBfGIsd4VjUhs0GLmgqzPbpyxZJbR5_ewknosyIeGMae9qtuhEQDV6PC5q4KJ0ww_OoHMqo2hOER0OpfS9FL6krkjgEUol63FVJoRtgc6ttJreNaL1",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJS7LnIw5TUkYRROoPUrejhwg",
+      "plus_code": {
+        "compound_code": "MHH9+7R Copenhagen",
+        "global_code": "9F7JMHH9+7R"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJS7LnIw5TUkYRROoPUrejhwg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1605,
+      "vicinity": "Larsbjørnsstræde 9, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.67349129999999,
+          "lng": 12.5965367
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.67479517989271,
+            "lng": 12.59765392989272
+          },
+          "southwest": {
+            "lat": 55.67209552010727,
+            "lng": 12.59495427010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Square Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113626364878321648993\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DN3USIoZh2txS9ElO044SqReqlOqgBzcwHfQc49ad67PakZPVYi7UQze3j5EkKM0R0LRB_VJ-fpU9dO5bucqEbpWaIjrJW--lzfHK8IKMQWzFMQoPnGjpfvh2235IACBSdx5nRdVXSq3DyXmMGCWj9-eIUhF3URcyYupk04nNUsa9iO",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJhev_4vxTUkYRPrbT2MYkU58",
+      "plus_code": {
+        "compound_code": "MHFW+9J Copenhagen",
+        "global_code": "9F7JMHFW+9J"
+      },
+      "rating": 4.6,
+      "reference": "ChIJhev_4vxTUkYRPrbT2MYkU58",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 315,
+      "vicinity": "Sydområdet 4H, København K"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6761111,
+          "lng": 12.5747222
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.67746807989273,
+            "lng": 12.57612947989272
+          },
+          "southwest": {
+            "lat": 55.67476842010728,
+            "lng": 12.57342982010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Bronx",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113395050549210820631\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DNt9uIAXOtP7AhL6xVhcNJsC7etEG_Bj_qojP_CpBYuRULBN3hiuNM43Wbrd6-T5QasM1DmkC84sp8SIq6dVZBYjniw1necs2KU6npjdXWsAyccopry_FoZXGqt1mewVdyMtkwMCggZoLbIY050TPvpXZQ175PuDrqEKZnFBs9o19g9",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJT4wQYxFTUkYRxZ-q24K8kEg",
+      "plus_code": {
+        "compound_code": "MHGF+CV Indre By, Copenhagen",
+        "global_code": "9F7JMHGF+CV"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJT4wQYxFTUkYRxZ-q24K8kEg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1356,
+      "vicinity": "Vandkunsten 1, Indre By"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6844395,
+          "lng": 12.5880161
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68580192989272,
+            "lng": 12.58927732989272
+          },
+          "southwest": {
+            "lat": 55.68310227010728,
+            "lng": 12.58657767010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Dandelion Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103383261633614712519\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DMyZB7gs8ZImmcrCcLG54G_aoS2io0XmJDS3vF-J9DNndjbyCtyjpPOrY_yI4OH0DZ3rR2vyo5kE1-tr9z6AcLUN1JruY8AbsgLD81EMvCwaiPKqYFA8YGrQL4uPmcknYUqoB1dsVSC_xdADbVJiwEmgkwgzaDFLq_SzKW6uFbvjzEt",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJWVKcvctTUkYRmNxJKOPH77g",
+      "plus_code": {
+        "compound_code": "MHMQ+Q6 Copenhagen",
+        "global_code": "9F7JMHMQ+Q6"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJWVKcvctTUkYRmNxJKOPH77g",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 521,
+      "vicinity": "Store Kongensgade 70, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.685498,
+          "lng": 12.56654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68687907989271,
+            "lng": 12.56799887989272
+          },
+          "southwest": {
+            "lat": 55.68417942010727,
+            "lng": 12.56529922010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Halifax",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114395024370999359305\">Rasmus</a>"
+          ],
+          "photo_reference": "AdCG2DM-52y58H1maMv6UydOkuOxF8FFOsUxpTH3JbOHTvYhgjtcB9KluKdLuD8mHF6qMQnH619UC83ObTZnAKCkq62jyILGckVGTJLayI9GPCSvZuLe4-W9aCoRDMqtcr1qATheJzLJyFwB5UIdqzNzuJeKe8bQ8tDuSQh9FLIlRTRGGZH6",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJafkHMwRTUkYRJp16Ii49UuQ",
+      "plus_code": {
+        "compound_code": "MHP8+5J Indre By, Copenhagen",
+        "global_code": "9F7JMHP8+5J"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJafkHMwRTUkYRJp16Ii49UuQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1105,
+      "vicinity": "Frederiksborggade 35, Indre By"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.64663720000001,
+          "lng": 12.6247972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.64793992989273,
+            "lng": 12.62605542989272
+          },
+          "southwest": {
+            "lat": 55.64524027010729,
+            "lng": 12.62335577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger 161",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109744897305128771764\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DOzq07UzbEOOYOcqvvaPW8ugMvWqnoaA93wGS2lkYj87kcCQnRFedCuc-0fSVDSFss9FBwnWeS9ioV8kmx_6zbdo0v5vYokmhXM0LAWBYVxweUFw3ZJBPE7jjRLS_MyiFrLHeliQ0gugNwMG4gIBcVdBxVZiN2J20ImtM5bJGfChI5T",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJrcH5q6ytU0YRr2gRf2C6l4M",
+      "plus_code": {
+        "compound_code": "JJWF+MW Copenhagen",
+        "global_code": "9F7JJJWF+MW"
+      },
+      "rating": 4.8,
+      "reference": "ChIJrcH5q6ytU0YRr2gRf2C6l4M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 382,
+      "vicinity": "Kastrupvej 161, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6669411,
+          "lng": 12.5327256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.66820527989272,
+            "lng": 12.53387157989272
+          },
+          "southwest": {
+            "lat": 55.66550562010728,
+            "lng": 12.53117192010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Gasoline Grill - Carlsberg Byen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104614879873986861899\">John Eddie Møller</a>"
+          ],
+          "photo_reference": "AdCG2DM67yM9x5SvuqeATkcHgNNnngPidBM9rbvYRRTSbxUJU3pSojmHZ60mxJKJsiEfRACu4nC-SMw65_jwZhBCma_qIAJNlc8i18d0jO-cFTV17p3rfwbYJYJzvOkOJHVTOxX5mLdEnS7EIPD6e0Dq9opk4g8JBbkzbre1mRwXdNOknGzk",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ109xsMdTUkYRKVbFkIVm4qo",
+      "plus_code": {
+        "compound_code": "MG8M+Q3 Copenhagen",
+        "global_code": "9F7JMG8M+Q3"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ109xsMdTUkYRKVbFkIVm4qo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 627,
+      "vicinity": "Bryggernes Plads 1, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6727727,
+          "lng": 12.4893131
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.67403602989272,
+            "lng": 12.49066147989272
+          },
+          "southwest": {
+            "lat": 55.67133637010728,
+            "lng": 12.48796182010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Nordic Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 544,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108614761116114351049\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DPu7tUbhOOyH7UGKPCiDxlvVhjH9SXF3sFJZKGh73ZgYdnyt2dJMiUWr-9g38XhhGCi2XwLYNdo_yvm8GHILZc9AQ90oBLpUAH1Y3DptzaydkyTRbBJqujH0e7-yPoeIJIo9A94G27Ndjyd6KURt3FD1d8r4MydY-QP3iUu1EPgT39T",
+          "width": 1010
+        }
+      ],
+      "place_id": "ChIJjT3GLqhTUkYRT65Lmu94HIU",
+      "plus_code": {
+        "compound_code": "MFFQ+4P Copenhagen",
+        "global_code": "9F7JMFFQ+4P"
+      },
+      "rating": 4.7,
+      "reference": "ChIJjT3GLqhTUkYRT65Lmu94HIU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 160,
+      "vicinity": "Roskildevej 148A, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6838458,
+          "lng": 12.5866262
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68516362989272,
+            "lng": 12.58794797989272
+          },
+          "southwest": {
+            "lat": 55.68246397010728,
+            "lng": 12.58524832010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "BOBS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5391,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108825174075283076054\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DPGyjBGZpLN9_-ysY9-4e3hxm_wj41qbYpNlYGrypXNTT-iz12WrafUHnnMy33VWgxQMkUooK_UayN7fUKwXMGP_vzov4TK1lHoHMNrdb-KuqBONMkjuUht1-RYGk2gldFpYGRsJ9-bgc0liACixq_dbsRcYQIpKbykyQVW8MsmlZrx",
+          "width": 8087
+        }
+      ],
+      "place_id": "ChIJ0c0RpfBTUkYRsY1X_Air-Fg",
+      "plus_code": {
+        "compound_code": "MHMP+GM Indre By, Copenhagen",
+        "global_code": "9F7JMHMP+GM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ0c0RpfBTUkYRsY1X_Air-Fg",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 310,
+      "vicinity": "Dronningens Tværgade 22, Indre By"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.67954570000001,
+          "lng": 12.5774024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68088407989272,
+            "lng": 12.57872172989272
+          },
+          "southwest": {
+            "lat": 55.67818442010728,
+            "lng": 12.57602207010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Gasoline Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106757700612282437835\">Evan Fisher</a>"
+          ],
+          "photo_reference": "AdCG2DM532AJTySsg2ppB6IAd32QRB_nMPzHeLLTcOOCGmti2Ni5kpqqKm3QKagBqJ2HSCjVkzeLShsnjXhW3809j2ZeV8YppoT_4boa0fGNJpZi_BgCcW9yi91vLIvj_sCQXCe3zcpraBLQ8cM2iMtkAKigbu-p0LqObSvuB2QU5uUdFtKm",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJM5ElwhBTUkYRVAg9nhL1FmI",
+      "plus_code": {
+        "compound_code": "MHHG+RX Copenhagen",
+        "global_code": "9F7JMHHG+RX"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJM5ElwhBTUkYRVAg9nhL1FmI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1443,
+      "vicinity": "Niels Hemmingsens Gade 20, København K"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.664098,
+          "lng": 12.5363741
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.66541122989272,
+            "lng": 12.53804507989272
+          },
+          "southwest": {
+            "lat": 55.66271157010728,
+            "lng": 12.53534542010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger Shack Carlsberg Byen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111378988351366124490\">Kadir Türkyilmaz</a>"
+          ],
+          "photo_reference": "AdCG2DMpFR1q0rbVOaX5fZ3UyTNPyXsvvth5ekLsRC8c0FZVi_JbBcQQE0DxRc-w4jbbnedXRZbEphIDxHEaqBJkfBOhACaCbVLexY0EGWIBnNLTP5U97rO6v9Ebqad35lr3QIObOE_rRWmaTlH7A0zLuvOOxHxQ1bWOG-t06fOXg6WJJlwx",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJQXc1OglTUkYR0adg1xUN_FE",
+      "plus_code": {
+        "compound_code": "MG7P+JG Copenhagen",
+        "global_code": "9F7JMG7P+JG"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJQXc1OglTUkYR0adg1xUN_FE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 608,
+      "vicinity": "Humletorvet 2, 4, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6883284,
+          "lng": 12.4941317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.68959957989272,
+            "lng": 12.49546787989272
+          },
+          "southwest": {
+            "lat": 55.68689992010727,
+            "lng": 12.49276822010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger Garage Vanløse",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114830629513404112961\">Micki Chow</a>"
+          ],
+          "photo_reference": "AdCG2DPY5y3BDUeZjbTNdU2BW3ykfs1I7qSEHaT5yjCGjELbzjCnU8H3Y2VINp42hRa1hPguNPVX1finMbCqEbAcFlEVoq5H72UwpPpp4Z_4zT3FuIvkG2UJ1fmn-UggRGla2ECd2GCoLQkdVg-lzU4HputGgRTaMkNCoT0vE8ehqRZUmE9g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJGcB2H91TUkYRjVgi7dvVnuc",
+      "plus_code": {
+        "compound_code": "MFQV+8M Vanløse, Copenhagen",
+        "global_code": "9F7JMFQV+8M"
+      },
+      "rating": 3.9,
+      "reference": "ChIJGcB2H91TUkYRjVgi7dvVnuc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 307,
+      "vicinity": "Apollovej 32, Vanløse"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.6704351,
+          "lng": 12.5570866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.67174362989272,
+            "lng": 12.55847832989272
+          },
+          "southwest": {
+            "lat": 55.66904397010728,
+            "lng": 12.55577867010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Louis Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102722128441156420060\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DO84AWgToWF9ckLjlEMvrUYqxQmTGMatk3mv-oYkOd6EmUSWobKr2ar7SBQrt487nRJEV_MEPF105N5PqvRU0TwuNjTboPtw5uDNM23EqEYeI-1jmCPUmo5pCeM4MdjyXofzS5_WEeId90hvpuyHrFsQSHG8aYeXiT2O1x368kapKam",
+          "width": 3080
+        }
+      ],
+      "place_id": "ChIJnYzULqFTUkYR_WshLEFI-Vw",
+      "plus_code": {
+        "compound_code": "MHC4+5R Copenhagen",
+        "global_code": "9F7JMHC4+5R"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJnYzULqFTUkYR_WshLEFI-Vw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 435,
+      "vicinity": "Istedgade 42B, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.7063839,
+          "lng": 12.5177228
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.70778072989273,
+            "lng": 12.51909542989272
+          },
+          "southwest": {
+            "lat": 55.70508107010728,
+            "lng": 12.51639577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tasty Food Hub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109559593856908953348\">Michal Suski</a>"
+          ],
+          "photo_reference": "AdCG2DO2_UzZPfMSiSTPoX2qnJnkcwoLkcbZzZ2QBmN8zBkPJpWOG11sCHbSzSQH9Yqd7OmBG1QalXytkIf6fYteZypWgDf-GUh9Fd7uXwTSGImuP4kuAQ7WSCEFVciY78QuMt9XVwqGuYyj58qYFb08yF54-OS4munS2s5WVeY2o72gqig6",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJR3tWxDFSUkYRvbcn1Db-fAw",
+      "plus_code": {
+        "compound_code": "PG49+H3 Copenhagen",
+        "global_code": "9F7JPG49+H3"
+      },
+      "rating": 3.9,
+      "reference": "ChIJR3tWxDFSUkYRvbcn1Db-fAw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 89,
+      "vicinity": "Frederikssundsvej 111, København"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.65844,
+          "lng": 12.6076655
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.65976422989272,
+            "lng": 12.60894807989272
+          },
+          "southwest": {
+            "lat": 55.65706457010727,
+            "lng": 12.60624842010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger Hytten Amager",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115200904429085785125\">A Google User</a>"
+          ],
+          "photo_reference": "AdCG2DPzMI1bx7ZUI1IpUWrElwwnlzzM6gjmHQDYrYF3sVVXVnKchjCctz-EVOlK_4u0WvpcG1x-I9L9ar1qPZioJ9sFTL_dljiGkE0TdjC56w-4EMUg-EuBDV1nb2LZt-EMvVSj0O6x-6BxuQjVsUwQFJJpGfL0VtAzuIpAzydV3KFGqDH4",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJiVy6AXpTUkYRF97pdjfnOhY",
+      "plus_code": {
+        "compound_code": "MJ55+93 Copenhagen",
+        "global_code": "9F7JMJ55+93"
+      },
+      "rating": 5,
+      "reference": "ChIJiVy6AXpTUkYRF97pdjfnOhY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Amagerbrogade 109, København"
+    }
+  ],
+  "status": "OK"
+}
