@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/Assets/blue-mountain-jfry6wta743ursmd1.jpg') no-repeat;
+    background: url('/uploads/CINEMA-CLASSICS-POSTER_RUTGERS_1340_c.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -62,7 +62,7 @@ body {
     background: #fff;
     outline: none;
     border-radius: 40px;
-    box-shadow: 0 0 10px rgba(0,0,0, .1);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
     cursor: pointer;
     font-size: 16px;
     color: #333;

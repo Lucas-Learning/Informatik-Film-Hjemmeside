@@ -142,11 +142,14 @@ body {
   #RegisterBtn{
     display: flex;
     justify-content: center;
+    text-decoration: none;
+    margin-top: 4%;
     margin-left: 12%;
     font-size: 500%;
     transition: background-color 0.4s ease, color 0.4s ease;
     max-width: 75%;
-    border-radius: 200px;
-    background-color: red;
-    color: black;
+    border-radius: 100px;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+    background-color: lightskyblue;
+    color: white;
   }
